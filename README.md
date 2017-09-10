@@ -142,27 +142,25 @@ Notes:
  -  Peasants work and produce wealth
 
 
-Who was the most influential person in both feudal Japanese and medieval Europe and how did they change the social hierarchy and how did this contribute to effective control of the people?
-·  	Main ideas:
-o   Effect of a person on society
-o   How did they affect the society (increased power of social classes etc.)
-o   Why did this happen
-
-
-·      Japan
-				§   Emperor - figurehead during the feudal period
-				§   Top of the chain - regained power during edo period
-				§   Power rest mainly in the military leaders, daimyos, shoguns,
+### Who was the most influential person in both feudal Japanese and medieval Europe and how did they change the social hierarchy and how did this contribute to effective control of the people?
+- Main ideas:
+ - Effect of a person on society
+ - How did they affect the society (increased power of social classes etc.)
+ - Why did this happen
+- **Japan**
+ - Emperor - figurehead during the feudal period
+ - Top of the chain - regained power during edo period
+ - Power rest mainly in the military leaders, daimyos, shoguns,
      samurais
-http://www.skwirk.com/p-c_s-14_u-177_t-515_c-1916/feudalism-in-japan/nsw/feudalism-in-japan/medieval-and-early-modern-societies-japan/medieval-japanese-societal-structure
-			§  Shogun Ieyasu
-				§  Edo shoguns (1600 - 1868)
-§  Capital in Edo
-§  Two centuries outside contact restricted
-§  Peaceful period
-§  Shared government between shogun and daimyo
-§  New laws that limited emperor activity  
-	Europe
+- http://www.skwirk.com/p-c_s-14_u-177_t-515_c-1916/feudalism-in-japan/nsw/feudalism-in-japan/medieval-and-early-modern-societies-japan/medieval-japanese-societal-structure
+  - Shogun Ieyasu
+  - Edo shoguns (1600 - 1868)
+  - Capital in Edo
+  - Two centuries outside contact restricted
+  - Peaceful period
+  - Shared government between shogun and daimyo
+  - New laws that limited emperor activity  
+- **Europe**
 
 §  Power rest in the aristocracy and nobility
 §  and in the clergy
