@@ -169,18 +169,18 @@ Notes:
  - Aided in keeping population from rioting (until Peasants Revolt)
  - King was not above law
 
-Key Ideas:
-o   Effect of a person on society
-o   How did they affect the society (increased power of social classes etc.)
-o   Why did this happen
+- Key Ideas:
+ - Effect of a person on society
+ - How did they affect the society (increased power of social classes etc.)
+ - Why did this happen
 
 Extra Question:
 
-What aspects were present in both feudal Japanese and medieval Europe societies and how did this affect the power of the different social classes present in both?
-·  	Main ideas:
-o   Religion and beliefs
-o   Power of different social classes (e.g. the Church and Christianity)
-o   Financial aspects that affected decisions made by rulers
+**What aspects were present in both feudal Japanese and medieval Europe societies and how did this affect the power of the different social classes present in both?**
+-	Main ideas:
+ - Religion and beliefs
+ - Power of different social classes (e.g. the Church and Christianity)
+ - Financial aspects that affected decisions made by rulers
 
 
 
