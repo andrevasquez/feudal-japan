@@ -1,18 +1,18 @@
-# Feudal Japan
+# **Feudal Japan**
 
 Andre Vasquez
 
 Research Questions
-### Statement to be evaluated:
+## Statement to be evaluated:
 
 Medieval Societies, such as that which developed in Japan, were designed so that the leaders could easily control the rest of the population.  The Japanese system was more effective in doing this than were the Feudal societies of Europe.
 
 
-How was the feudal system in Japan similar/different to the European feudal system?
--   	Main ideas:
--    Religion of both societies
--    Social classes in both societies
--    Power of the social classes over time in both societies
+### How was the feudal system in Japan similar/different to the European feudal system?
+- Main ideas:
+ - Religion of both societies
+ - Social classes in both societies
+ - Power of the social classes over time in both societies
 
 Notes:
 - **Feudal system**
@@ -91,24 +91,24 @@ Notes:
  -	Sublet land to peasants
 
 
-How did the power of the emperor fluctuate throughout feudal Japan as compared to the king in medieval Europe?
+### How did the power of the emperor fluctuate throughout feudal Japan as compared to the king in medieval Europe?
 
-·  	Main ideas:
-o   Power of the ‘ruler’ in both societies
-o   How religion and other beliefs affected this
-o   Uprising of different social classes
+- Main ideas:
+ - Power of the ‘ruler’ in both societies
+ - How religion and other beliefs affected this
+ - Uprising of different social classes
 
-·      Japan
-·  	https://sites.google.com/site/mrvailsclass2/feudal-japan (Ref 7)
-§  Beginning of Japanese civilisation - 1185: Emperor ruled
-§  Also religious leader
-§  Emperor began to lose power during wars
-§  Sent noblemen (samurai) to fight civil war
-§  When samurai returned, gave title Shogun to leader of army
-§  Next 700 years - Shogunate controlled Japan
-§  17th Century- Shoguns tired of foreigners
-§  1635 - 1853: Isolation
-·      Europe
+- **Japan**
+- https://sites.google.com/site/mrvailsclass2/feudal-japan (Ref 7)
+ - Beginning of Japanese civilisation - 1185: Emperor ruled
+ - Also religious leader
+ - Emperor began to lose power during wars
+ - Sent noblemen (samurai) to fight civil war
+ - When samurai returned, gave title Shogun to leader of army
+ - Next 700 years - Shogunate controlled Japan
+ - 17th Century- Shoguns tired of foreigners
+ - 1635 - 1853: Isolation
+- **Europe**
  http://www.medievalchronicles.com/medieval-people/medieval-royalty/medieval-king/
 
 § King is deemed most powerful
