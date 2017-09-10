@@ -3,7 +3,7 @@
 Andre Vasquez
 
 Research Questions
-Statement to be evaluated:
+### Statement to be evaluated:
 
 Medieval Societies, such as that which developed in Japan, were designed so that the leaders could easily control the rest of the population.  The Japanese system was more effective in doing this than were the Feudal societies of Europe.
 
@@ -15,30 +15,30 @@ How was the feudal system in Japan similar/different to the European feudal syst
 -    Power of the social classes over time in both societies
 
 Notes:
-·      Feudal system
-·  	https://prezi.com/lmbtaadw8hz1/japanese-feudal-system/ (Ref 1)
-o   A system in which different classes have obligations
-o   Benefits a leader (king etc.)
-o   Leader owned all/most of land
-o   People were born into permanent position in society
-·  	http://medievaljapanalyssa.weebly.com/feudal-system.html (Ref 2)
-·      Japan
-·  	https://prezi.com/lmbtaadw8hz1/japanese-feudal-system/ (Ref 1)
-o   About JFS
-§  12 – 19 Century
-§  Powerful rulers or military warlords ruled communities
-§  Emperor was figurehead
-§  Two ‘classes’: Nobility and peasants
-§  Noble: 12% population (roughly)
-§  Peasants: 88% population (roughly)
-o   End of JFS
-§  Pressure from West to trade
-§  Development of commerce and cities
-§  Changed power of shogun and daimyo
-§  Shogunate resigned
-§  Meiji restoration in 1868
-§  Marked abolition of shogunate
-§  Adopted Western legal system
+- Feudal system
+  - https://prezi.com/lmbtaadw8hz1/japanese-feudal-system/ (Ref 1)
+  - A system in which different classes have obligations
+  - Benefits a leader (king etc.)
+  - Leader owned all/most of land
+  - People were born into permanent position in society
+  - http://medievaljapanalyssa.weebly.com/feudal-system.html (Ref 2)
+- Japan
+ - https://prezi.com/lmbtaadw8hz1/japanese-feudal-system/ (Ref 1)
+- About JFS
+ - 12 – 19 Century
+ - Powerful rulers or military warlords ruled communities
+ - Emperor was figurehead
+ - Two ‘classes’: Nobility and peasants
+ - Noble: 12% population (roughly)
+ - Peasants: 88% population (roughly)
+ - End of JFS
+ - Pressure from West to trade
+ - Development of commerce and cities
+ - Changed power of shogun and daimyo
+ - Shogunate resigned
+ - Meiji restoration in 1868
+ - Marked abolition of shogunate
+ - Adopted Western legal system
 ·  	http://medievaljapanalyssa.weebly.com/feudal-system.html (Ref 2)
 o   Hierarchy
 §  Emperor was seen as highest social class
