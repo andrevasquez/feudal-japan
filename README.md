@@ -108,11 +108,14 @@ Notes:
  - Next 700 years - Shogunate controlled Japan
  - 17th Century- Shoguns tired of foreigners
  - 1635 - 1853: Isolation
+ - Lots of war and bloodshed
 - **Europe**
  - http://www.medievalchronicles.com/medieval-people/medieval-royalty/medieval-king/
 - King is deemed most powerful
 - Church (Christianity) ruled over king (manipulation)
 - Japan had military rule (manipulation of emperor through shogunate) while Europe had religious rule (manipulation of king through the Church)
+- Church also ruled over the people because of Christianity
+- Religion ruled over medieval Europe
 
 
 ### How did the effectiveness of the societal control affect the ending of each feudal period?
@@ -129,7 +132,8 @@ Notes:
  - Daimyos - feudal warlords - with great power, just below shoguns
  - Shoguns - military and political leader of feudal japan
  -   Low class - peasants, artisans, and merchants
-	Europe
+ - **Unfair rule, but gave up power peacefully**
+	**Europe**
   	http://www.hierarchystructure.com/medieval-feudal-hierarchy/
  - Societal structure in Europe
  - Society Divided in 2 classes, the upper classes and the
@@ -140,6 +144,7 @@ Notes:
      King’s land and also offer support to the kings in wars
  -  Barons offer fealty and homage to the King
  -  Peasants work and produce wealth
+ - **Not that effective as peasants had to revolt for freedom and rights**
 
 
 ### Who was the most influential person in both feudal Japanese and medieval Europe and how did they change the social hierarchy and how did this contribute to effective control of the people?
@@ -164,7 +169,7 @@ Notes:
   - Power rest in the aristocracy and nobility
   - and in the clergy
 - http://www.ducksters.com/history/middle_ages_timeline.php
- - King John of England sings Magna Carta
+ - King John of England signs Magna Carta
  - Gave people rights
  - Aided in keeping population from rioting (until Peasants Revolt)
  - King was not above law
@@ -176,7 +181,7 @@ Notes:
 
 Extra Question:
 
-**What aspects were present in both feudal Japanese and medieval Europe societies and how did this affect the power of the different social classes present in both?**
+## What aspects were present in both feudal Japanese and medieval Europe societies and how did this affect the power of the different social classes present in both?
 -	Main ideas:
  - Religion and beliefs
  - Power of different social classes (e.g. the Church and Christianity)
@@ -190,7 +195,7 @@ Extra Question:
 
 
 
-Bibliography
+-----------------------------------------Bibliography--------------------------------------
 
 Anita Voloshin. 2014. Japanese Feudal System. [ONLINE] Available at: https://prezi.com/lmbtaadw8hz1/japanese-feudal-system/. [Accessed 7 September 2017].
 
