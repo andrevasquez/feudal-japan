@@ -80,7 +80,7 @@ Notes:
  - Lords needed more labour (many peasants died in the Black Death)
  - After BD, lords encouraged peasants to move to their villages
  - Lords refused to let them leave their village
- - 
+ -
 -  **Hierarchy**
  -  http://www.hierarchystructure.com/medieval-feudal-hierarchy/ (Ref 6)
 - King was top of hierarchy
@@ -154,6 +154,7 @@ Notes:
  -  Peasants work and produce wealth
  - **Not that effective as peasants had to revolt for freedom and rights**
  - http://www.lordsandladies.org/the-peasants-revolt.htm
+ - https://www.marxists.org/history/england/peasants-revolt/story.htm
 
 
 ### Who was the most influential person in both feudal Japanese and medieval Europe and how did they change the social hierarchy and how did this contribute to effective control of the people?
