@@ -57,7 +57,10 @@ Notes:
  - King kept ¼ of land for himself
  - Some given to the Church
  - Rest given out to the other social classes (under lease)
+ - Lords gave out land to vassals in return, vassals gave taxes
+ - Pyramid of benefits between socials classes
  - Simple but effective
+ - The higher classes were extremely rich but lower was extremely poor
  - https://www.timemaps.com/civilizations/medieval-europe/ (Ref 4)
  - Spread from France to other countries in 11 Century
  - Feudal derives from the word fief
@@ -71,11 +74,13 @@ Notes:
  - Peasants Revolt in 1381
  - Black Death (1348-1350)
  - Peasants believed God protected them
+ - Church made motive for them to revolt
  - Improve lifestyle
  - Feudal law – Only leave village with lord’s permission
  - Lords needed more labour (many peasants died in the Black Death)
  - After BD, lords encouraged peasants to move to their villages
  - Lords refused to let them leave their village
+ - 
 -  **Hierarchy**
  -  http://www.hierarchystructure.com/medieval-feudal-hierarchy/ (Ref 6)
 - King was top of hierarchy
@@ -108,14 +113,17 @@ Notes:
  - Next 700 years - Shogunate controlled Japan
  - 17th Century- Shoguns tired of foreigners
  - 1635 - 1853: Isolation
- - Lots of war and bloodshed
+ - The emperor ruled before Feudal Japan, but afterwards, he had no power (except for figurehead)
+ - **Lots of war and bloodshed**
 - **Europe**
  - http://www.medievalchronicles.com/medieval-people/medieval-royalty/medieval-king/
 - King is deemed most powerful
 - Church (Christianity) ruled over king (manipulation)
 - Japan had military rule (manipulation of emperor through shogunate) while Europe had religious rule (manipulation of king through the Church)
-- Church also ruled over the people because of Christianity
-- Religion ruled over medieval Europe
+- **Church also ruled over the people because of Christianity**
+- **Religion ruled over medieval Europe**
+- King and Church were most Powerful
+- http://www.history.com/topics/middle-ages
 
 
 ### How did the effectiveness of the societal control affect the ending of each feudal period?
@@ -145,6 +153,7 @@ Notes:
  -  Barons offer fealty and homage to the King
  -  Peasants work and produce wealth
  - **Not that effective as peasants had to revolt for freedom and rights**
+ - http://www.lordsandladies.org/the-peasants-revolt.htm
 
 
 ### Who was the most influential person in both feudal Japanese and medieval Europe and how did they change the social hierarchy and how did this contribute to effective control of the people?
@@ -169,7 +178,7 @@ Notes:
   - Power rest in the aristocracy and nobility
   - and in the clergy
 - http://www.ducksters.com/history/middle_ages_timeline.php
- - King John of England signs Magna Carta
+ - King John of England signs Magna Carta (forced to)
  - Gave people rights
  - Aided in keeping population from rioting (until Peasants Revolt)
  - King was not above law
