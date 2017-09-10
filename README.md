@@ -15,16 +15,16 @@ How was the feudal system in Japan similar/different to the European feudal syst
 -    Power of the social classes over time in both societies
 
 Notes:
-- Feudal system
+- **Feudal system**
   - https://prezi.com/lmbtaadw8hz1/japanese-feudal-system/ (Ref 1)
   - A system in which different classes have obligations
   - Benefits a leader (king etc.)
   - Leader owned all/most of land
   - People were born into permanent position in society
   - http://medievaljapanalyssa.weebly.com/feudal-system.html (Ref 2)
-- Japan
+- **Japan**
  - https://prezi.com/lmbtaadw8hz1/japanese-feudal-system/ (Ref 1)
-- About JFS
+- **About JFS**
  - 12 – 19 Century
  - Powerful rulers or military warlords ruled communities
  - Emperor was figurehead
@@ -39,60 +39,57 @@ Notes:
  - Meiji restoration in 1868
  - Marked abolition of shogunate
  - Adopted Western legal system
-·  	http://medievaljapanalyssa.weebly.com/feudal-system.html (Ref 2)
-o   Hierarchy
-§  Emperor was seen as highest social class
-§  Emperor was only figurehead
-§  Warrior class ruled FJ
-§  Ronin was a soldier class without a master
-§  Samurai followed ‘Bushido’, the way of the warrior
-§  Peasants were the 90% of the population
-·      Europe
-·  	http://www.historyonthenet.com/medieval-life-feudalism-feudal-system/ (Ref 3)
-o   About EFS
-§  Introduced to England
-§  After conquest and invasion by William I the Conqueror
-§  Used by France (the Normans) in 900 CE
-§  All land owned by king
-§  King kept ¼ of land for himself
-§  Some given to the Church
-§  Rest given out to the other social classes (under lease)
-§  Simple but effective
-·  	https://www.timemaps.com/civilizations/medieval-europe/ (Ref 4)
-§  Spread from France to other countries in 11 Century
-§  Feudal derives from the word fief
-§  Direct quote ‘derives from the word fief, which usually denotes an area of land held on certain conditions’
-§  Person granting fief ‘lord’
-§  Person receiving fief ‘vassal’
-§  Vassal gave lord military service, money, and advice
-§  Lord protected vassal and ensured he received justice in court
-o   End of EFS
-·  	http://www.lordsandladies.org/the-peasants-revolt.htm (Ref 5)
-§  Peasants Revolt in 1381
-§  Black Death (1348-1350)
-§  Peasants believed God protected them
-§  Improve lifestyle
-§  Feudal law – Only leave village with lord’s permission
-§  Lords needed more labour (many peasants died in the Black Death)
-§  After BD, lords encouraged peasants to move to their villages
-§  Lords refused to let them leave their village
-o   Hierarchy
-·  	http://www.hierarchystructure.com/medieval-feudal-hierarchy/ (Ref 6)
-§  King was top of hierarchy
-·  	Owned all land
-·  	Concerned with wars
-·  	Leased properties to bishops and barons for knights (for wars)
-§  Noblemen next
-·  	Noblemen included barons and bishops
-·  	Responsible for supplying soldiers for the king
-·  	Related to the Church, priests, monasteries, and convents
-§  Lords
-·  	Serve as soldiers
-·  	Sublet land to peasants
+- **Hierarchy**
+ - http://medievaljapanalyssa.weebly.com/feudal-system.html (Ref 2)
+ - Emperor was seen as highest social class
+ - Emperor was only figurehead
+ - Warrior class ruled FJ
+ - Ronin was a soldier class without a master
+ - Samurai followed ‘Bushido’, the way of the warrior
+ - Peasants were the 90% of the population
+- Europe
+ - http://www.historyonthenet.com/medieval-life-feudalism-feudal-system/ (Ref 3)
+- **About EFS**
+ - Introduced to England
+ - After conquest and invasion by William I the Conqueror
+ - Used by France (the Normans) in 900 CE
+ - All land owned by king
+ - King kept ¼ of land for himself
+ - Some given to the Church
+ - Rest given out to the other social classes (under lease)
+ - Simple but effective
+ - https://www.timemaps.com/civilizations/medieval-europe/ (Ref 4)
+ - Spread from France to other countries in 11 Century
+ - Feudal derives from the word fief
+ - Direct quote *‘derives from the word fief, which usually denotes an area of land held on certain conditions’*
+ - Person granting fief ‘lord’
+ - Person receiving fief ‘vassal’
+ - Vassal gave lord military service, money, and advice
+ - Lord protected vassal and ensured he received justice in court
+-  **End of EFS**
+ -  	http://www.lordsandladies.org/the-peasants-revolt.htm (Ref 5)
+ - Peasants Revolt in 1381
+ - Black Death (1348-1350)
+ - Peasants believed God protected them
+ - Improve lifestyle
+ - Feudal law – Only leave village with lord’s permission
+ - Lords needed more labour (many peasants died in the Black Death)
+ - After BD, lords encouraged peasants to move to their villages
+ - Lords refused to let them leave their village
+-  **Hierarchy**
+ -  http://www.hierarchystructure.com/medieval-feudal-hierarchy/ (Ref 6)
+- King was top of hierarchy
+  - 	Owned all land
+  - 	Concerned with wars
+  - 	Leased properties to bishops and barons for knights (for wars)
+- Noblemen next
+  - 	Noblemen included barons and bishops
+  - 	Responsible for supplying soldiers for the king
+  -  	Related to the Church, priests, monasteries, and convents
+- Lords
+  - Serve as soldiers
+ -	Sublet land to peasants
 
-o   Religion of both societies
-o   Social classes in both societies
-o   Power of the social classes over time in both societies
 
 How did the power of the emperor fluctuate throughout feudal Japan as compared to the king in medieval Europe?
 
@@ -114,7 +111,7 @@ o   Uprising of different social classes
 ·      Europe
  http://www.medievalchronicles.com/medieval-people/medieval-royalty/medieval-king/
 
- 			§ King is deemed most powerful
+§ King is deemed most powerful
 § Church (Christianity) ruled over king (manipulation)
 
 Japan had military rule (manipulation of emperor through shogunate) while Europe had religious rule (manipulation of king through the Church)
