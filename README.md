@@ -161,17 +161,13 @@ Notes:
   - Shared government between shogun and daimyo
   - New laws that limited emperor activity  
 - **Europe**
-
-§  Power rest in the aristocracy and nobility
-§  and in the clergy
-
-
-http://www.ducksters.com/history/middle_ages_timeline.php
-
-§ King John of England sings Magna Carta
-§ Gave people rights
-§ Aided in keeping population from rioting (until Peasants Revolt)
-§ King was not above law
+  - Power rest in the aristocracy and nobility
+  - and in the clergy
+- http://www.ducksters.com/history/middle_ages_timeline.php
+ - King John of England sings Magna Carta
+ - Gave people rights
+ - Aided in keeping population from rioting (until Peasants Revolt)
+ - King was not above law
 
 Key Ideas:
 o   Effect of a person on society
