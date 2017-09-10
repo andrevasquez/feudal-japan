@@ -109,43 +109,37 @@ Notes:
  - 17th Century- Shoguns tired of foreigners
  - 1635 - 1853: Isolation
 - **Europe**
- http://www.medievalchronicles.com/medieval-people/medieval-royalty/medieval-king/
-
-§ King is deemed most powerful
-§ Church (Christianity) ruled over king (manipulation)
-
-Japan had military rule (manipulation of emperor through shogunate) while Europe had religious rule (manipulation of king through the Church)
+ - http://www.medievalchronicles.com/medieval-people/medieval-royalty/medieval-king/
+- King is deemed most powerful
+- Church (Christianity) ruled over king (manipulation)
+- Japan had military rule (manipulation of emperor through shogunate) while Europe had religious rule (manipulation of king through the Church)
 
 
-How did the effectiveness of the societal control affect the ending of each feudal period?
-·  	Main ideas:
-o   Power of different social classes
-o   How they changed over time
-o   How both time periods ended (and when)
+### How did the effectiveness of the societal control affect the ending of each feudal period?
+- Main ideas:
+ -  Power of different social classes
+ - How they changed over time
+ - How both time periods ended (and when)
 
-
-
-
-
-  Japan
-https://sites.google.com/site/mrvailsclass2/feudal-japan  
-				§  Royal Class
-				§   Top of the chain
-				§   Includes the emperor and his family members
-				§   Daimyos - feudal warlords - with great power, just below shoguns
-				§   Shoguns - military and political leader of feudal japan
-				§   Low class - peasants, artisans, and merchants
+- **Japan**
+ - https://sites.google.com/site/mrvailsclass2/feudal-japan  
+ - Royal Class
+ - Top of the chain
+ - Includes the emperor and his family members
+ - Daimyos - feudal warlords - with great power, just below shoguns
+ - Shoguns - military and political leader of feudal japan
+ -   Low class - peasants, artisans, and merchants
 	Europe
   	http://www.hierarchystructure.com/medieval-feudal-hierarchy/
-§  Societal structure in Europe
-§  Society Divided in 2 classes, the upper classes and the
+ - Societal structure in Europe
+ - Society Divided in 2 classes, the upper classes and the
      peasants or  serfs
-§ The upper class divided into the monastic monks and the aristocrats
+ - The upper class divided into the monastic monks and the aristocrats
     or nobles
-§   Power is in the hands of the barons who control large portion of the
+ - Power is in the hands of the barons who control large portion of the
      King’s land and also offer support to the kings in wars
-§  Barons offer fealty and homage to the King
-§  Peasants work and produce wealth
+ -  Barons offer fealty and homage to the King
+ -  Peasants work and produce wealth
 
 
 Who was the most influential person in both feudal Japanese and medieval Europe and how did they change the social hierarchy and how did this contribute to effective control of the people?
