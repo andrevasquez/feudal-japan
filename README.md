@@ -1,4 +1,4 @@
-
+# Feudal Japan
 
 Andre Vasquez
 
@@ -9,10 +9,10 @@ Medieval Societies, such as that which developed in Japan, were designed so that
 
 
 How was the feudal system in Japan similar/different to the European feudal system?
-·  	Main ideas:
-o   Religion of both societies
-o   Social classes in both societies
-o   Power of the social classes over time in both societies
+-   	Main ideas:
+-    Religion of both societies
+-    Social classes in both societies
+-    Power of the social classes over time in both societies
 
 Notes:
 ·      Feudal system
