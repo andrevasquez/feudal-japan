@@ -197,6 +197,13 @@ Extra Question:
  - Power of different social classes (e.g. the Church and Christianity)
  - Financial aspects that affected decisions made by rulers
 
+### Evaluation of Sources
+Anita Voloshin. 2014. Japanese Feudal System. [ONLINE] Available at: https://prezi.com/lmbtaadw8hz1/japanese-feudal-system/. [Accessed 7 September 2017].
+
+Evaluation:
+- This seemed to be a valid source because it told the timeline of Feudal Japan and its social aspects without any bias. This added to the legitimacy of the source.
+
+Shogun Vs Europe Available at: http://shogunvseurope.weebly.com/feudal-society.html [Accessed 7 September 2017]
 
 
 
