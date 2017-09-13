@@ -234,3 +234,17 @@ Feudal Japan Hierarchy http://www.legendsandchronicles.com/ancient-civilizations
 Skwirk. 2017. Feudalism in Japan. [ONLINE] Available at: http://www.skwirk.com/p-c_s-14_u-177_t-515_c-1916/feudalism-in-japan/nsw/feudalism-in-japan/medieval-and-early-modern-societies-japan/medieval-japanese-societal-structure. [Accessed 8 September 2017].
 
 Ducksters. 2017. Middle Ages Timeline. [ONLINE] Available at: http://www.ducksters.com/history/middle_ages_timeline.php. [Accessed 8 September 2017].
+
+Lock, Peter (2006). Routledge Companion to the Crusades. New York: Routledge.
+
+Numbers, Ronald (11 May 2006). "Myths and Truths in Science and Religion: A historical perspective" (PDF). Lecture archive. The Faraday Institute for Science and Religion. Retrieved 25 January 2013.
+
+Whitton, David (1998). "The Society of Northern Europe in the High Middle Ages, 900–1200". In Holmes, George. The Oxford Illustrated History of Medieval Europe. Oxford, UK: Oxford University Press. pp. 115–174. ISBN 0-19-285220-5.
+
+Morris, Rosemary (1998). "Northern Europe invades the Mediterranean, 900–1200". In Holmes, George. The Oxford Illustrated History of Medieval Europe. Oxford, UK: Oxford University Press. pp. 175–234. ISBN 0-19-285220-5.
+
+Griffiths, Antony (1996). Prints and Printmaking. London: British Museum Press. ISBN 0-7141-2608-X.
+
+Brown, Thomas (1998). "The Transformation of the Roman Mediterranean, 400–900". In Holmes, George. The Oxford Illustrated History of Medieval Europe. Oxford, UK: Oxford University Press. pp. 1–62. ISBN 0-19-285220-5.
+
+Barber, Richard (1978). Edward, Prince of Wales and Aquitaine: A Biography of the Black Prince. New York: Scribner. ISBN 0-684-15864-7.
