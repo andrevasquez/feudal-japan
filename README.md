@@ -152,7 +152,7 @@ Notes:
      King’s land and also offer support to the kings in wars
  -  Barons offer fealty and homage to the King
  -  Peasants work and produce wealth
- - **Not that effective as peasants had to revolt for freedom and rights 1831**
+ - **Not that effective as peasants had to revolt for freedom and rights 1381**
  - http://www.lordsandladies.org/the-peasants-revolt.htm
  - https://www.marxists.org/history/england/peasants-revolt/story.htm
 
